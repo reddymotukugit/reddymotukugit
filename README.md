@@ -39,15 +39,6 @@ class ReddyMotuku:
     "📊  Data Quality · Governance · MLOps · Production Support",
   ]
 
-  stack = {
-    "cloud"     : "Azure · Databricks · Microsoft Fabric · Synapse · ADLS Gen2",
-    "warehouse" : "Snowflake · Delta Lake · dbt · Unity Catalog",
-    "pipeline"  : "ADF · Airflow · PySpark · Event Hubs · Terraform",
-    "ai_ml"     : "LangGraph · LangChain · Azure OpenAI · MLflow · RAG",
-    "languages" : "Python · SQL · Shell Scripting · Git",
-    "analytics" : "Power BI · Streamlit · Tableau",
-  }
-
   fun_fact = "I turn raw data chaos → trusted insights 🚀"
 ```
 
