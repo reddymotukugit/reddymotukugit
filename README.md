@@ -2,7 +2,7 @@
 
 ![banner](./banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=Azure+Data+%26+AI+Engineer+%F0%9F%9A%80;5%2B+Years+in+Cloud+Data+Engineering+%E2%98%81%EF%B8%8F;Medallion+Lakehouse+%7C+dbt+%7C+Airflow+%7C+Spark;Multi-Agent+AI+%26+RAG+Pipeline+Builder+%F0%9F%A4%96;Databricks+%26+Microsoft+Fabric+Certified+%F0%9F%8F%85;Building+@+UTS+iLab+Capstone+%7C+Sydney+%F0%9F%87%A6%F0%9F%87%BA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=Azure+Data+%26+AI+Engineer+%F0%9F%9A%80;5+Years+in+Cloud+Data+Engineering+%E2%98%81%EF%B8%8F;Medallion+Lakehouse+%7C+dbt+%7C+Airflow+%7C+Spark;Multi-Agent+AI+%26+RAG+Pipeline+Builder+%F0%9F%A4%96;Databricks+%26+Microsoft+Fabric+Certified+%F0%9F%8F%85;Building+@+UTS+iLab+Capstone+%7C+Sydney+%F0%9F%87%A6%F0%9F%87%BA)](https://git.io/typing-svg)
 
 <br/>
 
