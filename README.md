@@ -28,7 +28,7 @@ class ReddyMotuku:
   location   = "Australia 🇦🇺"
   role       = "Azure Data & AI Engineer"
   company    = "Alicanto Consultants"
-  education  = "M.Sc. Data Science & Innovation — UTS (2024–2026)"
+  education  = "M.Sc. Data Science & Innovation — UTS (Awaiting Results)"
 
   experience = "5+ years"
   expertise  = [
@@ -217,7 +217,7 @@ class ReddyMotuku:
 
 | 🎓 Degree | 🏛️ Institution | 📅 Period |
 |:---|:---|:---|
-| **Master of Data Science & Innovation** | University of Technology Sydney 🇦🇺 | Jul 2024 – Jun 2026 |
+| **Master of Data Science & Innovation** | University of Technology Sydney 🇦🇺 | 2024 – 2026 · Awaiting Results |
 | **Bachelor of Technology (B.Tech)** | Madanapalle Institute of Technology & Science 🇮🇳 | 2015 – 2019 |
 
 </div>
@@ -318,7 +318,7 @@ class ReddyMotuku:
 
 | | |
 |:---:|:---|
-| 🎓 | Pursuing **M.Sc. Data Science & Innovation** at University of Technology Sydney — bridging academic research with real-world cloud engineering |
+| 🎓 | Completed **M.Sc. Data Science & Innovation** at University of Technology Sydney — awaiting final results |
 | ✅ | Built & shipped **Agentic Data Quality Triage** — a 9-agent LangGraph system that moves beyond simple alerting to context-aware, RAG-grounded triage at scale |
 | 🚀 | Deepening expertise at the intersection of **Data Engineering & Agentic AI** — where pipelines meet intelligent orchestration |
 | 🌏 | Open to **Senior Data Engineering & AI Engineering** roles in Australia where I can architect production-grade data systems and push into LLM-powered pipelines |
