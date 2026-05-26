@@ -41,5 +41,5 @@
 
   <!-- Info pill -->
   <rect x="272" y="146" width="356" height="32" rx="16" fill="url(#pill)"/>
-  <text x="450" y="167" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.3">📍 Australia  ·  5+ Years Experience  ·  Open to Work</text>
+  <text x="450" y="167" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="500" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.3">📍 Australia  ·  5 Years Experience  ·  Open to Work</text>
 </svg>
