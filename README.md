@@ -55,7 +55,6 @@ class ReddyMotuku:
 ## 🏅 Certifications
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="33%">
@@ -98,7 +97,6 @@ class ReddyMotuku:
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -136,13 +134,11 @@ class ReddyMotuku:
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](#)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 [![Prophet](https://img.shields.io/badge/Prophet-FF6B35?style=for-the-badge&logo=meta&logoColor=white)](#)
-[![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=for-the-badge&logo=databricks&logoColor=white)](#)
 
 **💻 Languages & Visualisation**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![HCL](https://img.shields.io/badge/HCL-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](#)
 [![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=linux&logoColor=white)](#)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#)
@@ -180,7 +176,7 @@ class ReddyMotuku:
 - Migrated legacy ETL logic into cloud-native pipelines; supported downstream analytics & Power BI reporting
 - Contributed to **production support** — pipeline monitoring, failure analysis, job performance optimisation & migration documentation
 
-`Azure Databricks` `PySpark` `Azure Data Factory` `ADLS Gen2` `Power BI` `Bronze/Silver/Gold`
+`Azure Databricks` `PySpark` `Azure Data Factory` `ADLS Gen2` `Power BI`
 
 </details>
 
@@ -190,8 +186,8 @@ class ReddyMotuku:
 
 > **Market Research & Consumer Analytics ETL** — data migration & transformation for a leading analytics client.
 
-- Designed ETL mappings, transformation flows & migration workflows using **Trifacta Wrangler Enterprise** / Alteryx Designer Cloud; converted legacy Syncsort workflows into equivalent Trifacta pipeline steps
-- Used **AzCopy** to move files to ADLS Gen2; created Linux wrapper scripts & cron jobs for ETL scheduling & automation
+- Designed ETL mappings, transformation flows & migration workflows using **Trifacta Wrangler Enterprise** / Alteryx Designer Cloud; converted legacy Syncsort workflows to equivalent Trifacta pipeline steps
+- Used **AzCopy** to move files to ADLS Gen2; created Linux wrapper scripts & configured cron jobs for ETL scheduling & automation
 - End-to-end development, testing, performance tuning & production support using BMC Remedy for incident management
 
 `Trifacta Wrangler` `Alteryx` `AzCopy` `ADLS Gen2` `SQL` `Linux` `Shell Scripting` `BMC Remedy`
@@ -221,20 +217,21 @@ class ReddyMotuku:
 
 ### 🤖 [Agentic Data Quality Triage](https://github.com/reddymotukugit/agentic-data-quality-triage)
 
-[![](https://img.shields.io/badge/133_Commits-4F46E5?style=for-the-badge)](#)
-[![](https://img.shields.io/badge/3_Branches-06B6D4?style=for-the-badge)](#)
-[![](https://img.shields.io/badge/Jupyter_94.3%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](#)
-[![](https://img.shields.io/badge/Python_5.7%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+![](https://img.shields.io/badge/🎓_UTS_iLab_Capstone-4F46E5?style=flat-square)
+![](https://img.shields.io/badge/Status-Production_W3-2eb82e?style=flat-square)
+![](https://img.shields.io/badge/Agents-9_LangGraph_Agents-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![](https://img.shields.io/badge/Evaluation-13_DQ_Scenarios-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![](https://img.shields.io/badge/Grounding-RAG_%2B_Vector_Search-7C3AED?style=flat-square)
 
 </div>
 
-> 🎓 **UTS iLab Capstone · Group iLab 07-1** — Evaluating Agentic Workflows for Data Quality Triage in Retail Analytics Pipelines
+> Intelligent multi-agent framework for detecting, prioritising & resolving data quality issues in retail analytics pipelines
 
-| 🔍 Detect | 🧩 Triage (8 Agents) | 🏆 RAG-Grounded (W3 Production) |
+| 🔍 Detect | 🧩 Triage | 🏆 RAG-Grounded W3 |
 |:---:|:---:|:---:|
-| SQL validation · Drift detection · Anomaly scoring | Summarise → Root Cause → Rank → Recommend → Report | KPI-aware · Evidence-backed · MLflow evaluated across 13 DQ scenarios |
+| SQL validation · Drift detection · Anomaly scoring | Summarise → Root Cause → Rank → Recommend → Report | KPI-aware · Evidence-backed · MLflow evaluated |
 
-`LangGraph` `LangChain` `Azure OpenAI` `Databricks` `Delta Tables` `MLflow` `RAG` `Unity Catalog` `Power BI` `Streamlit` `Logic Apps` `ADF`
+`LangGraph` `LangChain` `Azure OpenAI` `Databricks` `MLflow` `RAG` `Power BI` `Streamlit` `Logic Apps` `ADF`
 
 <div align="center">
 
@@ -242,22 +239,22 @@ class ReddyMotuku:
 
 ### 💰 [Finance Data Platform](https://github.com/reddymotukugit/finance-data-platform)
 
-[![](https://img.shields.io/badge/43_Commits-4F46E5?style=for-the-badge)](#)
-[![](https://img.shields.io/badge/dbt_CI-passing-2eb82e?style=for-the-badge&logo=dbt&logoColor=white)](#)
-[![](https://img.shields.io/badge/Terraform_CI-passing-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](#)
-[![](https://img.shields.io/badge/Python_Lint-passing-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![](https://img.shields.io/badge/dbt_Docs-passing-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](#)
+![](https://img.shields.io/badge/Status-Production_Ready-2eb82e?style=flat-square)
+![](https://img.shields.io/badge/Pipeline-Stripe_Entities_Daily-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![](https://img.shields.io/badge/dbt_Models-27_(8B·7S·12G)-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![](https://img.shields.io/badge/Airflow_DAG-26_Tasks_@_1:30AM-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![](https://img.shields.io/badge/Environments-dev_·_test_·_prod-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 </div>
 
-> 🏦 **Production-grade financial pipeline** — 9 Stripe entities → Azure ADLS Gen2 → Snowflake → dbt → Apache Airflow
+> Production-grade financial pipeline — Stripe → Azure ADLS Gen2 → Snowflake → dbt → Airflow with 4 CI/CD workflows
 
-| 📦 Source | 🏗️ dbt Models | ⚙️ Airflow DAG | 🌍 Terraform Envs |
+| 📦 Source | 🏗️ dbt Models | ⚙️ Airflow DAG | 🌍 Terraform |
 |:---:|:---:|:---:|:---:|
 | 9 Stripe entities | 27 total | 26 tasks | dev · test · prod |
 | Incremental watermark | 8 Bronze · 7 Silver · 12 Gold | Daily @ 1:30 AM AEST | Azure remote state |
 
-`dbt` `Apache Airflow 2.x` `Snowflake` `Terraform` `Stripe API` `ADLS Gen2` `GitHub Actions` `Python 3.11` `HCL`
+`dbt` `Apache Airflow 2.x` `Snowflake` `Terraform` `Stripe API` `ADLS Gen2` `GitHub Actions` `Python 3.11`
 
 <div align="center">
 
@@ -265,19 +262,21 @@ class ReddyMotuku:
 
 ### 🏪 [Retail Customer 360 & Demand Forecasting Lakehouse](https://github.com/reddymotukugit/retail-customer-360-lakehouse)
 
-[![](https://img.shields.io/badge/18_Commits-4F46E5?style=for-the-badge)](#)
-[![](https://img.shields.io/badge/Python_69.5%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![](https://img.shields.io/badge/PowerShell_14%25-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](#)
+![](https://img.shields.io/badge/Status-Active-2eb82e?style=flat-square)
+![](https://img.shields.io/badge/Segmentation-K--Means_K%3D4_RFM-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![](https://img.shields.io/badge/Forecasting-Prophet_Top--50_SKUs-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![](https://img.shields.io/badge/Horizon-12_Week_Demand_Forecast-0194E2?style=flat-square)
+![](https://img.shields.io/badge/Governance-Unity_Catalog_%2B_MLflow-7C3AED?style=flat-square)
 
 </div>
 
-> 🛒 **Azure Databricks Lakehouse** — retail transactions → Bronze → Silver → Gold with weekly ML segmentation & demand forecasting
+> Retail transactions → Bronze → Silver → Gold on Databricks with weekly ML segmentation & demand forecasting jobs
 
 | 👥 Customer Segmentation | 📈 Demand Forecasting |
 |:---:|:---:|
-| K-Means (K=4) · RFM scoring · MLflow registry · @champion promotion | Prophet · Top-50 SKUs · 12-week horizon · MAPE tracking · Unity Catalog |
+| K-Means (K=4) · RFM scoring · MLflow @champion | Prophet · Top-50 SKUs · 12-week horizon · MAPE |
 
-`Azure Databricks` `Delta Lake` `ADF` `Lakeflow` `MLflow` `Prophet` `scikit-learn` `Terraform` `Unity Catalog` `Power BI` `GitHub Actions`
+`Databricks` `Delta Lake` `ADF` `Lakeflow` `MLflow` `Prophet` `scikit-learn` `Terraform` `Unity Catalog` `Power BI`
 
 <div align="center">
 
@@ -285,16 +284,16 @@ class ReddyMotuku:
 
 ### 🎵 [Azure Spotify Project](https://github.com/reddymotukugit/azurespotifyproject)
 
-[![](https://img.shields.io/badge/19_Commits-4F46E5?style=for-the-badge)](#)
-[![](https://img.shields.io/badge/3_Branches-06B6D4?style=for-the-badge)](#)
-[![](https://img.shields.io/badge/Jupyter_90.2%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](#)
-[![](https://img.shields.io/badge/Python_9.8%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+![](https://img.shields.io/badge/Status-Complete-2eb82e?style=flat-square)
+![](https://img.shields.io/badge/Pipeline-Incremental_ADF_Loop-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![](https://img.shields.io/badge/Orchestration-Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![](https://img.shields.io/badge/Compute-Azure_Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 </div>
 
-> 🎶 **Azure data pipeline** — Spotify data processed end-to-end with ADF orchestration and Azure Databricks notebook execution
+> Spotify data pipeline — incremental ingestion, ADF orchestration & Databricks notebook execution on Azure
 
-`Azure Data Factory` `Azure Databricks` `Jupyter Notebook` `Python` `Incremental Pipeline` `Azure SQL`
+`Azure Data Factory` `Azure Databricks` `Jupyter Notebook` `Python` `Azure SQL` `Incremental Pipeline`
 
 ---
 
