@@ -27,24 +27,24 @@ class ReddyMotuku:
   pronouns   = "He/Him"
   location   = "Australia 🇦🇺"
   role       = "Azure Data & AI Engineer"
-  company    = "Alicanto Consultants"
+  status     = "Open to → Azure Data & AI Engineering roles 🟢"
   education  = "M.Sc. Data Science & Innovation — UTS (Awaiting Results)"
 
   experience = "5+ years"
   expertise  = [
-    "☁️  Cloud Data Engineering  (Azure · Databricks · Fabric)",
-    "🏗️  Medallion Lakehouse  (Bronze → Silver → Gold)",
-    "🤖  Agentic AI · LangGraph · RAG Pipelines",
-    "🔄  ETL/ELT · Incremental Loading · Streaming · CI/CD",
-    "📊  Data Quality · MLOps · Governance · IaC",
+    "☁️  Cloud Data Engineering  (Azure · Databricks · Fabric · Synapse)",
+    "🏗️  Medallion Lakehouse  ·  On-Premises to Cloud Migration",
+    "🤖  Agentic AI · LangGraph · RAG · Multi-Agent Systems",
+    "🔄  ETL/ELT · Batch & Incremental · Streaming · CI/CD",
+    "📊  Data Quality · Governance · MLOps · Production Support",
   ]
 
   stack = {
-    "cloud"     : "Azure · Databricks · Microsoft Fabric · Synapse",
+    "cloud"     : "Azure · Databricks · Microsoft Fabric · Synapse · ADLS Gen2",
     "warehouse" : "Snowflake · Delta Lake · dbt · Unity Catalog",
-    "pipeline"  : "ADF · Airflow · PySpark · Terraform",
+    "pipeline"  : "ADF · Airflow · PySpark · Event Hubs · Terraform",
     "ai_ml"     : "LangGraph · LangChain · Azure OpenAI · MLflow · RAG",
-    "languages" : "Python · SQL · Shell Scripting",
+    "languages" : "Python · SQL · Shell Scripting · Git",
     "analytics" : "Power BI · Streamlit · Tableau",
   }
 
