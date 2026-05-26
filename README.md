@@ -317,11 +317,11 @@ class ReddyMotuku:
 <div align="center">
 
 | | |
-|:---:|:---:|
-| 🎓 | Completing **M.Sc. Data Science & Innovation** at University of Technology Sydney |
-| 🤖 | Completed **Agentic Data Quality Triage** system — UTS iLab Capstone (LangGraph + RAG) |
-| 📖 | Deepening expertise in **Agentic AI · LLMs · Streaming Pipelines** |
-| 🌏 | Open to **Data Engineering & AI Engineering** opportunities in Australia |
+|:---:|:---|
+| 🎓 | Pursuing **M.Sc. Data Science & Innovation** at University of Technology Sydney — bridging academic research with real-world cloud engineering |
+| ✅ | Built & shipped **Agentic Data Quality Triage** — a 9-agent LangGraph system that moves beyond simple alerting to context-aware, RAG-grounded triage at scale |
+| 🚀 | Deepening expertise at the intersection of **Data Engineering & Agentic AI** — where pipelines meet intelligent orchestration |
+| 🌏 | Open to **Senior Data Engineering & AI Engineering** roles in Australia where I can architect production-grade data systems and push into LLM-powered pipelines |
 
 </div>
 
