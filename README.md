@@ -23,12 +23,12 @@
 ```python
 class ReddyMotuku:
 
-  name       = "Reddy Harish Kumar Reddy Motuku"
+  name       = "Harish Kumar Reddy Motuku"
   pronouns   = "He/Him"
   location   = "Australia 🇦🇺"
   role       = "Azure Data & AI Engineer"
   status     = "Open to → Azure Data & AI Engineering roles 🟢"
-  education  = "M.Sc. Data Science & Innovation — UTS"
+  education  = "M.Sc. Data Science & Innovation — UTS (Awaiting Results)"
 
   experience = "5+ years"
   expertise  = [
@@ -38,6 +38,15 @@ class ReddyMotuku:
     "🔄  ETL/ELT · Batch & Incremental · Streaming · CI/CD",
     "📊  Data Quality · Governance · MLOps · Production Support",
   ]
+
+  stack = {
+    "cloud"     : "Azure · Databricks · Microsoft Fabric · Synapse · ADLS Gen2",
+    "warehouse" : "Snowflake · Delta Lake · dbt · Unity Catalog",
+    "pipeline"  : "ADF · Airflow · PySpark · Event Hubs · Terraform",
+    "ai_ml"     : "LangGraph · LangChain · Azure OpenAI · MLflow · RAG",
+    "languages" : "Python · SQL · Shell Scripting · Git",
+    "analytics" : "Power BI · Streamlit · Tableau",
+  }
 
   fun_fact = "I turn raw data chaos → trusted insights 🚀"
 ```
@@ -77,17 +86,11 @@ class ReddyMotuku:
 <b>Certified Trifacta Data Deputy</b><br/>
 <sub>Issued May 2021</sub>
 </td>
-<td align="center">
+<td align="center" colspan="2">
 <img src="https://img.shields.io/badge/Trifacta-FF6B35?style=for-the-badge&logoColor=white"/>
 <br/><br/>
 <b>Certified Trifacta Data Wrangler</b><br/>
 <sub>Issued May 2021</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Open_To_Work-2eb82e?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<br/><br/>
-<b>Data / AI Engineering Roles</b><br/>
-<sub>Sydney, Australia 🇦🇺</sub>
 </td>
 </tr>
 </table>
@@ -326,7 +329,7 @@ class ReddyMotuku:
 
 <div align="center">
 
-*Open to Data Engineering & AI Engineering opportunities in Australia* 🇦🇺
+*Open to Data Engineering & AI Engineering opportunities in Sydney, Australia* 🇦🇺
 
 <br/>
 
