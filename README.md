@@ -141,7 +141,6 @@ class ReddyMotuku:
 [![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=for-the-badge)](#)
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](#)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
-[![Prophet](https://img.shields.io/badge/Prophet-FF6B35?style=for-the-badge&logo=meta&logoColor=white)](#)
 
 **💻 Languages & DevOps**
 *Code, infrastructure & CI/CD*
@@ -219,7 +218,7 @@ class ReddyMotuku:
 | 🎓 Degree | 🏛️ Institution | 📅 Period |
 |:---|:---|:---|
 | **Master of Data Science & Innovation** | University of Technology Sydney 🇦🇺 | Jul 2024 – Jun 2026 |
-| **Bachelor of Technology (B.Tech)** | Madanapalle Institute of Technology & Science 🇮🇳 | 2015 – 2019 · GPA 7.71 |
+| **Bachelor of Technology (B.Tech)** | Madanapalle Institute of Technology & Science 🇮🇳 | 2015 – 2019 |
 
 </div>
 
