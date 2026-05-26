@@ -1,6 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Reddy+Motuku&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Azure+Data+%26+AI+Engineer+%7C+Australia&descSize=20&descAlignY=58&descColor=e0e7ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header)
+
+<h1 align="center">Reddy Motuku</h1>
+<h3 align="center">Azure Data & AI Engineer</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=Azure+Data+%26+AI+Engineer+%F0%9F%9A%80;5%2B+Years+in+Cloud+Data+Engineering+%E2%98%81%EF%B8%8F;Medallion+Lakehouse+%7C+dbt+%7C+Airflow+%7C+Spark;Multi-Agent+AI+%26+RAG+Pipeline+Builder+%F0%9F%A4%96;Databricks+%26+Microsoft+Fabric+Certified+%F0%9F%8F%85;Building+@+UTS+iLab+Capstone+%7C+Sydney+%F0%9F%87%A6%F0%9F%87%BA)](https://git.io/typing-svg)
 
@@ -9,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reddyharishmotuku)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reddymotukugit)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:reddymotuku.cloud@outlook.com)
-[![Location](https://img.shields.io/badge/Sydney%2C%20Australia-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Australia-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Views](https://komarev.com/ghpvc/?username=reddymotukugit&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/reddymotukugit)
 
 </div>
