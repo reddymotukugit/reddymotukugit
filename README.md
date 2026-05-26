@@ -23,7 +23,7 @@
 ```python
 class ReddyMotuku:
 
-  name       = "Harish Kumar Reddy Motuku"
+  name       = "Reddy Harish Kumar Reddy Motuku"
   pronouns   = "He/Him"
   location   = "Australia 🇦🇺"
   role       = "Azure Data & AI Engineer"
