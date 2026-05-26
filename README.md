@@ -312,14 +312,44 @@ class ReddyMotuku:
 
 ---
 
-## 📊 GitHub Stats
+## 🔭 Currently
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddymotukugit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=ffffff&count_private=true)](https://github.com/reddymotukugit)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddymotukugit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&langs_count=6)](https://github.com/reddymotukugit)
+| | |
+|:---:|:---:|
+| 🎓 | Completing **M.Sc. Data Science & Innovation** at University of Technology Sydney |
+| 🤖 | Building **Agentic Data Quality Triage** system — UTS iLab Capstone (LangGraph + RAG) |
+| 📖 | Deepening expertise in **Agentic AI · LLMs · Streaming Pipelines** |
+| 🌏 | Open to **Data Engineering & AI Engineering** opportunities in Australia |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=reddymotukugit&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4)](https://github.com/reddymotukugit)
+</div>
+
+---
+
+## 📐 By the Numbers
+
+<div align="center">
+
+![](https://img.shields.io/badge/Experience-5%2B_Years-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Projects-4_Production_Repos-06B6D4?style=for-the-badge)
+![](https://img.shields.io/badge/Certifications-5_Earned-2eb82e?style=for-the-badge)
+
+![](https://img.shields.io/badge/AI_Agents-9_LangGraph_Agents-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/dbt_Models-27_(8B·7S·12G)-FF694B?style=for-the-badge)
+![](https://img.shields.io/badge/Airflow_Tasks-26_per_Daily_Run-017CEE?style=for-the-badge)
+
+![](https://img.shields.io/badge/DQ_Scenarios-13_Evaluated_via_MLflow-0194E2?style=for-the-badge)
+![](https://img.shields.io/badge/Stripe_Entities-9_Ingested_Daily-29B5E8?style=for-the-badge)
+![](https://img.shields.io/badge/Terraform_Envs-dev_·_test_·_prod-7B42BC?style=for-the-badge)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reddymotukugit&theme=tokyo-night&bg_color=0D1117&color=7C3AED&line=06B6D4&point=ffffff&hide_border=true&area=true)](https://github.com/reddymotukugit)
 
