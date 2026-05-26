@@ -1,16 +1,332 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**reddymotukugit/reddymotukugit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](./banner.svg)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=Azure+Data+%26+AI+Engineer+%F0%9F%9A%80;5%2B+Years+in+Cloud+Data+Engineering+%E2%98%81%EF%B8%8F;Medallion+Lakehouse+%7C+dbt+%7C+Airflow+%7C+Spark;Multi-Agent+AI+%26+RAG+Pipeline+Builder+%F0%9F%A4%96;Databricks+%26+Microsoft+Fabric+Certified+%F0%9F%8F%85;Building+@+UTS+iLab+Capstone+%7C+Sydney+%F0%9F%87%A6%F0%9F%87%BA)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reddyharishmotuku)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reddymotukugit)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:reddymotuku.cloud@outlook.com)
+[![Location](https://img.shields.io/badge/Sydney%2C%20Australia-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Views](https://komarev.com/ghpvc/?username=reddymotukugit&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/reddymotukugit)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+<img align="right" width="310" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```python
+class ReddyMotuku:
+
+  name       = "Harish Kumar Reddy Motuku"
+  pronouns   = "He/Him"
+  location   = "Sydney, NSW, Australia 🇦🇺"
+  role       = "Azure Data & AI Engineer"
+  company    = "Alicanto Consultants"
+  education  = "M.Sc. Data Science & Innovation — UTS"
+
+  experience = "5+ years"
+  expertise  = [
+    "☁️  Medallion Lakehouse  (Bronze → Silver → Gold)",
+    "🤖  Multi-Agent AI · LangGraph · RAG Pipelines",
+    "🔄  ETL/ELT · Streaming · CI/CD · IaC",
+    "📊  MLOps · Data Quality · Governance",
+  ]
+
+  stack = {
+    "cloud"    : "Azure · Databricks · Microsoft Fabric",
+    "warehouse": "Snowflake · Delta Lake · dbt",
+    "pipeline" : "ADF · Airflow · PySpark · Terraform",
+    "ai"       : "LangGraph · Azure OpenAI · MLflow · RAG",
+  }
+
+  fun_fact = "I turn raw data chaos → trusted insights 🚀"
+```
+
+<br clear="right"/>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<br/><br/>
+<b>Certified Data Engineer Professional</b><br/>
+<sub>Apr 2026 – Apr 2028 · ID: 180599623</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<br/><br/>
+<b>Fabric Data Engineer Associate</b><br/>
+<sub>Apr 2026 – Apr 2027 · ID: F2158A6CE72C51CF</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<br/><br/>
+<b>Tableau Training Certificate</b><br/>
+<sub>Marlabs Software Pvt Ltd</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Trifacta-FF6B35?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<b>Certified Trifacta Data Deputy</b><br/>
+<sub>Issued May 2021</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Trifacta-FF6B35?style=for-the-badge&logoColor=white"/>
+<br/><br/>
+<b>Certified Trifacta Data Wrangler</b><br/>
+<sub>Issued May 2021</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Open_To_Work-2eb82e?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br/><br/>
+<b>Data / AI Engineering Roles</b><br/>
+<sub>Sydney, Australia 🇦🇺</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**☁️ Cloud & Infrastructure**
+
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](#)
+[![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)
+[![Synapse](https://img.shields.io/badge/Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+[![Event Hubs](https://img.shields.io/badge/Event_Hubs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+
+**🗄️ Data Engineering**
+
+[![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+[![ADLS Gen2](https://img.shields.io/badge/ADLS_Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+[![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](#)
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](#)
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](#)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](#)
+[![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)](#)
+
+**🤖 AI & ML**
+
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
+[![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](#)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
+[![Prophet](https://img.shields.io/badge/Prophet-FF6B35?style=for-the-badge&logo=meta&logoColor=white)](#)
+[![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=for-the-badge&logo=databricks&logoColor=white)](#)
+
+**💻 Languages & Visualisation**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![HCL](https://img.shields.io/badge/HCL-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](#)
+[![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=linux&logoColor=white)](#)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details open>
+<summary><b>🏢 Azure Data Engineer &nbsp;·&nbsp; Alicanto Consultants Private Limited</b> &nbsp;|&nbsp; Jun 2023 – Jul 2024 &nbsp;·&nbsp; Bengaluru, India</summary>
+<br/>
+
+> **Insurance Claims Analytics Data Platform** — migrated claims, member, provider, policy & payment data from on-premises to Azure.
+
+- Developed **ADF pipelines** using Self-Hosted Integration Runtime → ADLS Gen2 → Azure Databricks PySpark transformations to clean, standardise, validate, deduplicate & enrich claims datasets
+- Implemented **Bronze → Silver → Gold** medallion layers with incremental loading logic for reliable daily processing
+- Performed key data quality checks: record-count validation, null checks, duplicate checks, schema validation, claim amount validation & source-to-target reconciliation
+- Created curated **Power BI dashboards** covering claims volume, approval/rejection trends, payment analysis, member reporting & provider performance
+
+`Azure Data Factory` `ADLS Gen2` `Azure Databricks` `PySpark` `Power BI` `Bronze/Silver/Gold`
+
+</details>
+
+<details>
+<summary><b>🏢 Senior Software Engineer &nbsp;·&nbsp; Marlabs Software Pvt Ltd</b> &nbsp;|&nbsp; Jun 2021 – Jun 2023 &nbsp;·&nbsp; Bengaluru, India (Hybrid)</summary>
+<br/>
+
+> **Enterprise Data Migration** — modernised legacy on-premises ETL workflows into an Azure cloud-based data platform.
+
+- Ingested data from on-premises SQL databases, flat files & legacy ETL systems into ADLS Gen2 via ADF; transformed using Azure Databricks & PySpark
+- Designed scalable **ETL/ELT pipelines** with Bronze, Silver & Gold architecture — incremental loading, deduplication, schema validation & source-to-target reconciliation
+- Migrated legacy ETL logic into cloud-native pipelines; supported downstream analytics & Power BI reporting
+- Contributed to **production support** — pipeline monitoring, failure analysis, job performance optimisation & migration documentation
+
+`Azure Databricks` `PySpark` `Azure Data Factory` `ADLS Gen2` `Power BI` `Bronze/Silver/Gold`
+
+</details>
+
+<details>
+<summary><b>🏢 Analyst (ETL Developer) &nbsp;·&nbsp; Firstsource Solutions Ltd</b> &nbsp;|&nbsp; Aug 2019 – Jun 2021 &nbsp;·&nbsp; Bengaluru, India</summary>
+<br/>
+
+> **Market Research & Consumer Analytics ETL** — data migration & transformation for a leading analytics client.
+
+- Designed ETL mappings, transformation flows & migration workflows using **Trifacta Wrangler Enterprise** / Alteryx Designer Cloud; converted legacy Syncsort workflows into equivalent Trifacta pipeline steps
+- Used **AzCopy** to move files to ADLS Gen2; created Linux wrapper scripts & cron jobs for ETL scheduling & automation
+- End-to-end development, testing, performance tuning & production support using BMC Remedy for incident management
+
+`Trifacta Wrangler` `Alteryx` `AzCopy` `ADLS Gen2` `SQL` `Linux` `Shell Scripting` `BMC Remedy`
+
+</details>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🎓 Degree | 🏛️ Institution | 📅 Period |
+|:---|:---|:---|
+| **Master of Data Science & Innovation** | University of Technology Sydney 🇦🇺 | Jul 2024 – Jun 2026 |
+| **Bachelor of Technology (B.Tech)** | Madanapalle Institute of Technology & Science 🇮🇳 | 2015 – 2019 · GPA 7.71 |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+---
+
+### 🤖 [Agentic Data Quality Triage](https://github.com/reddymotukugit/agentic-data-quality-triage)
+
+[![](https://img.shields.io/badge/133_Commits-4F46E5?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/3_Branches-06B6D4?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Jupyter_94.3%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+[![](https://img.shields.io/badge/Python_5.7%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+
+</div>
+
+> 🎓 **UTS iLab Capstone · Group iLab 07-1** — Evaluating Agentic Workflows for Data Quality Triage in Retail Analytics Pipelines
+
+| 🔍 Detect | 🧩 Triage (8 Agents) | 🏆 RAG-Grounded (W3 Production) |
+|:---:|:---:|:---:|
+| SQL validation · Drift detection · Anomaly scoring | Summarise → Root Cause → Rank → Recommend → Report | KPI-aware · Evidence-backed · MLflow evaluated across 13 DQ scenarios |
+
+`LangGraph` `LangChain` `Azure OpenAI` `Databricks` `Delta Tables` `MLflow` `RAG` `Unity Catalog` `Power BI` `Streamlit` `Logic Apps` `ADF`
+
+<div align="center">
+
+---
+
+### 💰 [Finance Data Platform](https://github.com/reddymotukugit/finance-data-platform)
+
+[![](https://img.shields.io/badge/43_Commits-4F46E5?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/dbt_CI-passing-2eb82e?style=for-the-badge&logo=dbt&logoColor=white)](#)
+[![](https://img.shields.io/badge/Terraform_CI-passing-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](#)
+[![](https://img.shields.io/badge/Python_Lint-passing-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![](https://img.shields.io/badge/dbt_Docs-passing-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](#)
+
+</div>
+
+> 🏦 **Production-grade financial pipeline** — 9 Stripe entities → Azure ADLS Gen2 → Snowflake → dbt → Apache Airflow
+
+| 📦 Source | 🏗️ dbt Models | ⚙️ Airflow DAG | 🌍 Terraform Envs |
+|:---:|:---:|:---:|:---:|
+| 9 Stripe entities | 27 total | 26 tasks | dev · test · prod |
+| Incremental watermark | 8 Bronze · 7 Silver · 12 Gold | Daily @ 1:30 AM AEST | Azure remote state |
+
+`dbt` `Apache Airflow 2.x` `Snowflake` `Terraform` `Stripe API` `ADLS Gen2` `GitHub Actions` `Python 3.11` `HCL`
+
+<div align="center">
+
+---
+
+### 🏪 [Retail Customer 360 & Demand Forecasting Lakehouse](https://github.com/reddymotukugit/retail-customer-360-lakehouse)
+
+[![](https://img.shields.io/badge/18_Commits-4F46E5?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Python_69.5%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![](https://img.shields.io/badge/PowerShell_14%25-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](#)
+
+</div>
+
+> 🛒 **Azure Databricks Lakehouse** — retail transactions → Bronze → Silver → Gold with weekly ML segmentation & demand forecasting
+
+| 👥 Customer Segmentation | 📈 Demand Forecasting |
+|:---:|:---:|
+| K-Means (K=4) · RFM scoring · MLflow registry · @champion promotion | Prophet · Top-50 SKUs · 12-week horizon · MAPE tracking · Unity Catalog |
+
+`Azure Databricks` `Delta Lake` `ADF` `Lakeflow` `MLflow` `Prophet` `scikit-learn` `Terraform` `Unity Catalog` `Power BI` `GitHub Actions`
+
+<div align="center">
+
+---
+
+### 🎵 [Azure Spotify Project](https://github.com/reddymotukugit/azurespotifyproject)
+
+[![](https://img.shields.io/badge/19_Commits-4F46E5?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/3_Branches-06B6D4?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Jupyter_90.2%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+[![](https://img.shields.io/badge/Python_9.8%25-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+
+</div>
+
+> 🎶 **Azure data pipeline** — Spotify data processed end-to-end with ADF orchestration and Azure Databricks notebook execution
+
+`Azure Data Factory` `Azure Databricks` `Jupyter Notebook` `Python` `Incremental Pipeline` `Azure SQL`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddymotukugit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=ffffff&count_private=true)](https://github.com/reddymotukugit)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddymotukugit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&langs_count=6)](https://github.com/reddymotukugit)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=reddymotukugit&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4)](https://github.com/reddymotukugit)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reddymotukugit&theme=tokyo-night&bg_color=0D1117&color=7C3AED&line=06B6D4&point=ffffff&hide_border=true&area=true)](https://github.com/reddymotukugit)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+*Open to Data Engineering & AI Engineering opportunities in Sydney, Australia* 🇦🇺
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reddyharishmotuku)
+[![Email](https://img.shields.io/badge/Send_an_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:reddymotuku.cloud@outlook.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reddymotukugit)
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer)
+
+</div>
