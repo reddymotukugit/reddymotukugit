@@ -28,7 +28,7 @@ class ReddyMotuku:
   location   = "Australia 🇦🇺"
   role       = "Azure Data & AI Engineer"
   status     = "Open to → Azure Data & AI Engineering roles 🟢"
-  education  = "M.Sc. Data Science & Innovation — UTS (Awaiting Results)"
+  education  = "M.Sc. Data Science & Innovation — UTS"
 
   experience = "5+ years"
   expertise  = [
@@ -326,7 +326,7 @@ class ReddyMotuku:
 
 <div align="center">
 
-*Open to Data Engineering & AI Engineering opportunities in Sydney, Australia* 🇦🇺
+*Open to Data Engineering & AI Engineering opportunities in Australia* 🇦🇺
 
 <br/>
 
