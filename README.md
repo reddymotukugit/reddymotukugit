@@ -25,24 +25,27 @@ class ReddyMotuku:
 
   name       = "Harish Kumar Reddy Motuku"
   pronouns   = "He/Him"
-  location   = "Sydney, NSW, Australia 🇦🇺"
+  location   = "Australia 🇦🇺"
   role       = "Azure Data & AI Engineer"
   company    = "Alicanto Consultants"
-  education  = "M.Sc. Data Science & Innovation — UTS"
+  education  = "M.Sc. Data Science & Innovation — UTS (2024–2026)"
 
   experience = "5+ years"
   expertise  = [
-    "☁️  Medallion Lakehouse  (Bronze → Silver → Gold)",
-    "🤖  Multi-Agent AI · LangGraph · RAG Pipelines",
-    "🔄  ETL/ELT · Streaming · CI/CD · IaC",
-    "📊  MLOps · Data Quality · Governance",
+    "☁️  Cloud Data Engineering  (Azure · Databricks · Fabric)",
+    "🏗️  Medallion Lakehouse  (Bronze → Silver → Gold)",
+    "🤖  Agentic AI · LangGraph · RAG Pipelines",
+    "🔄  ETL/ELT · Incremental Loading · Streaming · CI/CD",
+    "📊  Data Quality · MLOps · Governance · IaC",
   ]
 
   stack = {
-    "cloud"    : "Azure · Databricks · Microsoft Fabric",
-    "warehouse": "Snowflake · Delta Lake · dbt",
-    "pipeline" : "ADF · Airflow · PySpark · Terraform",
-    "ai"       : "LangGraph · Azure OpenAI · MLflow · RAG",
+    "cloud"     : "Azure · Databricks · Microsoft Fabric · Synapse",
+    "warehouse" : "Snowflake · Delta Lake · dbt · Unity Catalog",
+    "pipeline"  : "ADF · Airflow · PySpark · Terraform",
+    "ai_ml"     : "LangGraph · LangChain · Azure OpenAI · MLflow · RAG",
+    "languages" : "Python · SQL · Shell Scripting",
+    "analytics" : "Power BI · Streamlit · Tableau",
   }
 
   fun_fact = "I turn raw data chaos → trusted insights 🚀"
