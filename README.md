@@ -320,7 +320,7 @@ class ReddyMotuku:
 
 <div align="center">
 
-*Open to Data Engineering & AI Engineering opportunities in Sydney, Australia* 🇦🇺
+*Open to Data Engineering & AI Engineering opportunities in Australia* 🇦🇺
 
 <br/>
 
