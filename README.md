@@ -23,14 +23,14 @@
 ```python
 class ReddyMotuku:
 
-  name       = "Reddy Harish Kumar Reddy Motuku"
+  name       = "Harish Kumar Reddy Motuku"
   pronouns   = "He/Him"
   location   = "Australia 🇦🇺"
   role       = "Azure Data & AI Engineer"
   status     = "Open to → Azure Data & AI Engineering roles 🟢"
-  education  = "M.Sc. Data Science & Innovation — UTS"
+  education  = "M.Sc. Data Science & Innovation — UTS (Awaiting Results)"
 
-  experience = "5+ years"
+  experience = "5 Years"
   expertise  = [
     "☁️  Cloud Data Engineering  (Azure · Databricks · Fabric · Synapse)",
     "🏗️  Medallion Lakehouse  ·  On-Premises to Cloud Migration",
@@ -38,6 +38,15 @@ class ReddyMotuku:
     "🔄  ETL/ELT · Batch & Incremental · Streaming · CI/CD",
     "📊  Data Quality · Governance · MLOps · Production Support",
   ]
+
+  stack = {
+    "cloud"     : "Azure · Databricks · Microsoft Fabric · Synapse · ADLS Gen2",
+    "warehouse" : "Snowflake · Delta Lake · dbt · Unity Catalog",
+    "pipeline"  : "ADF · Airflow · PySpark · Event Hubs · Terraform",
+    "ai_ml"     : "LangGraph · LangChain · Azure OpenAI · MLflow · RAG",
+    "languages" : "Python · SQL · Shell Scripting · Git",
+    "analytics" : "Power BI · Streamlit · Tableau",
+  }
 
   fun_fact = "I turn raw data chaos → trusted insights 🚀"
 ```
@@ -320,7 +329,7 @@ class ReddyMotuku:
 
 <div align="center">
 
-*Open to Data Engineering & AI Engineering opportunities in Australia* 🇦🇺
+*Open to Data Engineering & AI Engineering opportunities in Sydney, Australia* 🇦🇺
 
 <br/>
 
