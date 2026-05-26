@@ -306,7 +306,7 @@ class ReddyMotuku:
 
 > Spotify data pipeline — incremental ingestion, ADF orchestration & Databricks notebook execution on Azure
 
-`Azure Data Factory` `Azure Databricks` `Jupyter Notebook` `Python` `Azure SQL` `Incremental Pipeline`
+`Azure Data Factory` `ADLS Gen2` `Azure Databricks` `Jupyter Notebook` `Python` `Azure SQL` `Incremental Pipeline`
 
 ---
 
