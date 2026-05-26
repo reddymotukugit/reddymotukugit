@@ -28,7 +28,7 @@ class ReddyMotuku:
   location   = "Australia 🇦🇺"
   role       = "Azure Data & AI Engineer"
   status     = "Open to → Azure Data & AI Engineering roles 🟢"
-  education  = "M.Sc. Data Science & Innovation — UTS"
+  education  = "M.Sc. Data Science & Innovation — UTS (Awaiting Results)"
 
   experience = "5 Years"
   expertise  = [
@@ -38,6 +38,15 @@ class ReddyMotuku:
     "🔄  ETL/ELT · Batch & Incremental · Streaming · CI/CD",
     "📊  Data Quality · Governance · MLOps · Production Support",
   ]
+
+  stack = {
+    "cloud"     : "Azure · Databricks · Microsoft Fabric · Synapse · ADLS Gen2",
+    "warehouse" : "Snowflake · Delta Lake · dbt · Unity Catalog",
+    "pipeline"  : "ADF · Airflow · PySpark · Event Hubs · Terraform",
+    "ai_ml"     : "LangGraph · LangChain · Azure OpenAI · MLflow · RAG",
+    "languages" : "Python · SQL · Shell Scripting · Git",
+    "analytics" : "Power BI · Streamlit · Tableau",
+  }
 
   fun_fact = "I turn raw data chaos → trusted insights 🚀"
 ```
@@ -151,17 +160,17 @@ class ReddyMotuku:
 ## 💼 Work Experience
 
 <details open>
-<summary><b>🏢 Azure Data Engineer &nbsp;·&nbsp; Alicanto Consultants Private Limited</b> &nbsp;|&nbsp; Jun 2023 – Jul 2024 &nbsp;·&nbsp; Bengaluru, India</summary>
+<summary><b>🏢 Azure Data Engineer &nbsp;·&nbsp; Alicanto Consultants Pvt Ltd</b> &nbsp;|&nbsp; Jul 2023 – Jul 2024 &nbsp;·&nbsp; Bengaluru, India</summary>
 <br/>
 
-> **Insurance Claims Analytics Data Platform** — migrated claims, member, provider, policy & payment data from on-premises to Azure.
+> **iOPS Adoption Analytics Platform — Unilever** — unified reporting platform to monitor technology adoption and business performance across multiple Unilever products via Power BI dashboards.
 
-- Developed **ADF pipelines** using Self-Hosted Integration Runtime → ADLS Gen2 → Azure Databricks PySpark transformations to clean, standardise, validate, deduplicate & enrich claims datasets
-- Implemented **Bronze → Silver → Gold** medallion layers with incremental loading logic for reliable daily processing
-- Performed key data quality checks: record-count validation, null checks, duplicate checks, schema validation, claim amount validation & source-to-target reconciliation
-- Created curated **Power BI dashboards** covering claims volume, approval/rejection trends, payment analysis, member reporting & provider performance
+- Built scalable ingestion pipelines using **ADF, ADLS Gen2, Azure Databricks & Delta Lake**; developed reusable parameterised ADF pipelines ingesting from SAP systems, Universal Data Lake, Business Data Lake, Azure Blob Storage & SFTP — handling CSV, ZIP, XLSX & XML formats
+- Implemented **Bronze → Silver → Gold** data layers using ADLS Gen2 & Delta Lake; developed Databricks notebooks with PySpark & Spark SQL for cleansing, transformation, enrichment, reconciliation & data quality validation
+- Led **Unity Catalog implementation** — created governed schemas, tables, views & secure access layers for analytics users
+- Curated datasets powering Power BI dashboards for technology adoption KPIs, usage metrics, executive reporting & cross-product business insights
 
-`Azure Data Factory` `ADLS Gen2` `Azure Databricks` `PySpark` `Power BI` `Bronze/Silver/Gold`
+`ADF` `ADLS Gen2` `Azure Databricks` `Delta Lake` `PySpark` `Unity Catalog` `Power BI` `SAP` `Python` `SQL`
 
 </details>
 
@@ -169,14 +178,14 @@ class ReddyMotuku:
 <summary><b>🏢 Senior Software Engineer &nbsp;·&nbsp; Marlabs Software Pvt Ltd</b> &nbsp;|&nbsp; Jun 2021 – Jun 2023 &nbsp;·&nbsp; Bengaluru, India (Hybrid)</summary>
 <br/>
 
-> **Enterprise Data Migration** — modernised legacy on-premises ETL workflows into an Azure cloud-based data platform.
+> **Legacy Talend → Azure Migration — ERP Data Platform** — phased modernisation of Talend ETL workflows to ADF & Databricks, integrating SAP & JD Edwards ERP data for supply chain planning via Kinaxis RapidResponse.
 
-- Ingested data from on-premises SQL databases, flat files & legacy ETL systems into ADLS Gen2 via ADF; transformed using Azure Databricks & PySpark
-- Designed scalable **ETL/ELT pipelines** with Bronze, Silver & Gold architecture — incremental loading, deduplication, schema validation & source-to-target reconciliation
-- Migrated legacy ETL logic into cloud-native pipelines; supported downstream analytics & Power BI reporting
-- Contributed to **production support** — pipeline monitoring, failure analysis, job performance optimisation & migration documentation
+- Analysed existing Talend jobs, mappings, custom routines & scheduling dependencies before redesigning workflows in Azure; built **ADF pipelines** for orchestration — stored procedure execution, file movement, Databricks notebook execution & downstream loading
+- Developed **Databricks notebooks** using PySpark & Spark SQL to cleanse, standardise & transform ERP datasets — converting legacy Talend logic (decimal conversion, Julian date conversion) into reusable PySpark/SQL
+- Supported data loads into **Kinaxis RapidResponse**, monitored insert/update/delete/error records, performed source-to-target reconciliation & ran parallel pipelines alongside legacy Talend to validate migration accuracy
+- Contributed to **production support** — pipeline monitoring, failure analysis, issue resolution & migration documentation
 
-`Azure Databricks` `PySpark` `Azure Data Factory` `ADLS Gen2` `Power BI`
+`ADF` `Azure Databricks` `PySpark` `ADLS Gen2` `Kinaxis RapidResponse` `SAP` `JD Edwards` `Power BI`
 
 </details>
 
@@ -320,7 +329,7 @@ class ReddyMotuku:
 
 <div align="center">
 
-*Open to Data Engineering & AI Engineering opportunities in Australia* 🇦🇺
+*Open to Data Engineering & AI Engineering opportunities in Sydney, Australia* 🇦🇺
 
 <br/>
 
