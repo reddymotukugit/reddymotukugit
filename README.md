@@ -30,7 +30,7 @@ class ReddyMotuku:
   status     = "Open to → Azure Data & AI Engineering roles 🟢"
   education  = "M.Sc. Data Science & Innovation — UTS"
 
-  experience = "5 Years"
+  experience = "6 Years"
   expertise  = [
     "☁️  Cloud Data Engineering  (Azure · Databricks · Fabric · Synapse)",
     "🏗️  Medallion Lakehouse  ·  Delta Lake  ·  Unity Catalog",
@@ -151,6 +151,21 @@ class ReddyMotuku:
 ## 💼 Work Experience
 
 <details open>
+<summary><b>🏢 Analytics Engineer &nbsp;·&nbsp; Ingram Micro</b> &nbsp;|&nbsp; Feb 2025 – Feb 2026 &nbsp;·&nbsp; Sydney, Australia</summary>
+<br/>
+
+> **Sales & Stock Analytics Platform** — end-to-end Azure data pipeline integrating REST APIs, on-prem databases & SFTP feeds into a unified sales and inventory reporting platform.
+
+- Built full pipeline using **ADF, Databricks, Synapse & Power BI** — ingesting from REST APIs, on-prem databases & SFTP feeds into a centralised analytics layer
+- Designed **incremental ingestion** (watermarking & ForEach file loops) and **Delta Lake merge logic** for reliable, duplicate-free daily processing
+- Set up **CI/CD in Azure DevOps & Databricks Asset Bundles** across Dev, Test & Prod environments
+- Delivered real-time stock visibility, sales trend analysis & low-stock alerts to business stakeholders via **Power BI**
+
+`ADF` `Azure Databricks` `Azure Synapse` `Delta Lake` `Azure DevOps` `Databricks Asset Bundles` `Power BI` `REST API` `SFTP`
+
+</details>
+
+<details>
 <summary><b>🏢 Azure Data Engineer &nbsp;·&nbsp; Alicanto Consultants Pvt Ltd</b> &nbsp;|&nbsp; Jul 2023 – Jul 2024 &nbsp;·&nbsp; Bengaluru, India</summary>
 <br/>
 
