@@ -217,8 +217,8 @@ class ReddyMotuku:
 
 | 🎓 Degree | 🏛️ Institution | 📅 Period |
 |:---|:---|:---|
-| **Master of Data Science & Innovation** | University of Technology Sydney 🇦🇺 | July 2024 – June 2026 · Awaiting Results |
-| **Bachelor of Technology (B.Tech)** | Madanapalle Institute of Technology & Science 🇮🇳 | 2015 – 2019 |
+| **Master of Data Science & Innovation** | University of Technology Sydney 🇦🇺 | June 2026 |
+| **Bachelor of Technology (B.Tech)** | Madanapalle Institute of Technology & Science 🇮🇳 | 2019 |
 
 </div>
 
