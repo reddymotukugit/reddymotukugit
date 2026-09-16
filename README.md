@@ -151,7 +151,7 @@ class ReddyMotuku:
 ## 💼 Work Experience
 
 <details open>
-<summary><b>🏢 Analytics Engineer &nbsp;·&nbsp; Ingram Micro</b> &nbsp;|&nbsp; Feb 2025 – Feb 2026 &nbsp;·&nbsp; Sydney, Australia</summary>
+<summary><b>🏢 Data Engineer &nbsp;·&nbsp; Ingram Micro</b> &nbsp;|&nbsp; Feb 2025 – Feb 2026 &nbsp;·&nbsp; Sydney, Australia</summary>
 <br/>
 
 > **Sales & Stock Analytics Platform** — end-to-end Azure data pipeline integrating REST APIs, on-prem databases & SFTP feeds into a unified sales and inventory reporting platform.
@@ -166,7 +166,7 @@ class ReddyMotuku:
 </details>
 
 <details>
-<summary><b>🏢 Azure Data Engineer &nbsp;·&nbsp; Alicanto Consultants Pvt Ltd</b> &nbsp;|&nbsp; Jul 2023 – Jul 2024 &nbsp;·&nbsp; Bengaluru, India</summary>
+<summary><b>🏢 Cloud Data Engineer &nbsp;·&nbsp; Alicanto Consultants Pvt Ltd</b> &nbsp;|&nbsp; Jul 2023 – Jul 2024 &nbsp;·&nbsp; Bengaluru, India</summary>
 <br/>
 
 > **iOPS Adoption Analytics Platform — Unilever** — unified reporting platform to monitor technology adoption and business performance across multiple Unilever products via Power BI dashboards.
@@ -196,7 +196,7 @@ class ReddyMotuku:
 </details>
 
 <details>
-<summary><b>🏢 Analyst (ETL Developer) &nbsp;·&nbsp; Firstsource Solutions Ltd</b> &nbsp;|&nbsp; Aug 2019 – Jun 2021 &nbsp;·&nbsp; Bengaluru, India</summary>
+<summary><b>🏢 Data Analyst (ETL Developer) &nbsp;·&nbsp; Firstsource Solutions Ltd</b> &nbsp;|&nbsp; Aug 2019 – Jun 2021 &nbsp;·&nbsp; Bengaluru, India</summary>
 <br/>
 
 > **Market Research & Consumer Analytics ETL** — data migration & transformation for a leading analytics client.
